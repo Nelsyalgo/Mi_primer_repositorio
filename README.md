@@ -16,3 +16,6 @@ _otro ejemplo de texto en italica_
 __otro ejemplo de Texto en negrita__
 
 **_otro ejemplo de Texto en negrita_**
+
+***otro ejemplo de Texto en negrita***
+
