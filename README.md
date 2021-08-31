@@ -14,3 +14,5 @@ _otro ejemplo de texto en italica_
 ## Texto en negrita
 **Ejemplo de texto en negrita**
 __otro ejemplo de Texto en negrita__
+
+**_otro ejemplo de Texto en negrita_**
