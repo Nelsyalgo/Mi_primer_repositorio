@@ -33,4 +33,4 @@ __otro ejemplo de Texto en negrita__
 
 Imagen de perro
 
-![](Perro 2.jpg)
+![](perro2.jpg)
