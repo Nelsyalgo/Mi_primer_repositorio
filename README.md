@@ -34,3 +34,20 @@ __otro ejemplo de Texto en negrita__
 Imagen de perro
 
 ![](perro2.jpg)
+
+
+## Listas numeradas
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+
+##Listas no numeradas
+- Elemento A
+- Elemento B
+- Elemento C
+
+- Elemento I
+- Elemento II
+- Elemento III
+
+* Elementos 
