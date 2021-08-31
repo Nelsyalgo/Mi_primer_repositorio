@@ -53,3 +53,8 @@ Imagen de perro
 * Elementos 1
     * elemento a
     * elemento a
+
+
+<strong>Texto en negrita HTML</strong>
+
+<img src="perro.jpg
