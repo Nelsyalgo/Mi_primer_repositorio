@@ -19,3 +19,5 @@ __otro ejemplo de Texto en negrita__
 
 ***otro ejemplo de Texto en negrita***
 
+***otro ejemplo de Texto en negrita***
+*_otro ejemplo de Texto en negrita_*
