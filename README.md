@@ -10,3 +10,7 @@
 ## Texto en Italica
 *Ejemplo de texto en Italica*  
 _otro ejemplo de texto en italica_
+
+## Texto en negrita
+**Ejemplo de texto en negrita**
+__otro ejemplo de Texto en negrita__
