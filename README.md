@@ -23,3 +23,7 @@ __otro ejemplo de Texto en negrita__
 *_otro ejemplo de Texto en negrita_*
 
 >*"En un lugar de la mancha..."*
+
+## Enlaces
+
+[Enlace a la pagina del Instituto Meteorologico Nacional (IMN)](https://www.imn.ac.cr/web/imn/inicio)
